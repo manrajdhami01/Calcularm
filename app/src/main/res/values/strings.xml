@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calcularm</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="textView"></string>
+    <string name="title_activity_activity2_add_alarm">Activity2_addAlarm</string>
+    <string name="activity2_saveButton">Save</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>">
+    <string name="RepeatText">Select days to repeat the alarm</string>
+    <string name="CheckBox">Monday</string>
+    <string name="CheckBox2">Tuesday</string>
+    <string name="CheckBox3">Wednesday</string>
+    <string name="CheckBox4">Thursday</string>
+    <string name="CheckBox5">Friday</string>
+    <string name="CheckBox6">Saturday</string>
+    <string name="CheckBox7">Sunday</string>
+    <string name="AlarmScreenText">Hey there! Wake your mind up with this problem.</string>
+    <string name="textView3">Enter your answer here</string>
+    <string name="button2">Submit</string>
+    <string name="button3">Snooze</string> textview
+</resources>
