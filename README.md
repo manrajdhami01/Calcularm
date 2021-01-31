@@ -10,7 +10,7 @@ that the app is responsible to really wake you up through a simple little mental
 * [x] User can **set an alarm for any time of the day.**
 * [x] User can **choose to repeat the alarm on select days of the week.**
 * [x] User can **snooze the alarm upon ringing.**
-* [x] User can **end the triggered alarm by providing the correct solution to the clalculation.**
+* [x] User can **end the triggered alarm by providing the correct solution to the calculation.**
 
 
 ## Video Walkthrough
